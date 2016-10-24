@@ -11,4 +11,4 @@ Existen dos tipos de recomendaciones: las que un jugador puede regalar a otro y 
 * Al pasar las primeras dos horas Online, se dan 10 recomendaciones para regalar más.
 * Después de pasar las primeras dos horas Online, se empieza a dar una recomendación para regalar por hora.
 
-**En otras palabras, si estoy jugando hace 4 horas, debería tener 20 + 10 + 1 + 1 = 32.
+*En otras palabras, si estoy jugando hace 4 horas, debería tener 20 + 10 + 1 + 1 = 32.*
