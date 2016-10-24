@@ -1,9 +1,10 @@
 #Recomendaciones
 Existen dos tipos de recomendaciones: las que un jugador puede regalar a otro y las que le son regaladas a uno (estas últimas harán que se obtenga un bonus de experiencia).
 
-##Inicialización diaria
-* Todos los días a las 6:30 le saca a todos los jugadores 20 recomendaciones (si tenía 125, ahora le quedan 105 y por ende obtiene menos bonus) excepto que tenga 20 ó menos, en cuyo caso no se le quita nada.
-* Todos los días a las 6:30 las recomendaciones para regalar vuelven al valor 0.
+##Inicialización diaria (todos los días a las 6:30)
+* Se le saca a todos los jugadores 20 recomendaciones (si tenía 125, ahora le quedan 105 y por ende obtiene menos bonus) excepto que tenga 20 ó menos, en cuyo caso no se le quita nada.
+* Las recomendaciones para regalar vuelven al valor 0.
+* El tiempo de bonus (Nevit) es reseteado a una hora.
 
 ##Mientras el jugador está logueado
 * En el primer logueo del día del jugador, las recomendaciones para regalar son seteadas en 20.
