@@ -7,3 +7,6 @@ Es un repositorio que obtendrá toda la información recopilada y procesada de l
 
 ## ¿Cómo puedo aportar?
 Podés crear o editar contenido respetando el orden de carpetas. Para ello, hacé Pull requests a modo de que los cambios puedan ser revisados y, en caso que todo esté bien, mergeado.
+
+## ¿Cómo puedo darle formato al texto?
+Muy fácil, mirá el siguiente link que tiene la sintaxis básica https://help.github.com/articles/basic-writing-and-formatting-syntax/
