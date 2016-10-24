@@ -12,3 +12,5 @@ Existen dos tipos de recomendaciones: las que un jugador puede regalar a otro y 
 * Después de pasar las primeras dos horas Online, se empieza a dar una recomendación para regalar por hora.
 
 *En otras palabras, si estoy jugando hace 4 horas, debería tener 20 + 10 + 1 + 1 = 32.*
+
+Fuente: http://www.united-extreme.com/u3games/comunidades/l2/index.php/topic,1770.0.html
